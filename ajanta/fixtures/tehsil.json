@@ -1,0 +1,740 @@
+[
+ {
+  "district": "AMRELI", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.122660", 
+  "name": "AMRELI", 
+  "state": "GUJARAT", 
+  "tehsil": "AMRELI"
+ }, 
+ {
+  "district": "KUTCHH", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.160867", 
+  "name": "ANJAR", 
+  "state": "GUJARAT", 
+  "tehsil": "ANJAR"
+ }, 
+ {
+  "district": "AMRELI", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.164274", 
+  "name": "BABARA", 
+  "state": "GUJARAT", 
+  "tehsil": "BABARA"
+ }, 
+ {
+  "district": "AMRELI", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.167787", 
+  "name": "BAGSARA", 
+  "state": "GUJARAT", 
+  "tehsil": "BAGSARA"
+ }, 
+ {
+  "district": "KUTCHH", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.171045", 
+  "name": "BHACHAU", 
+  "state": "GUJARAT", 
+  "tehsil": "BHACHAU"
+ }, 
+ {
+  "district": "JAMNAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.174303", 
+  "name": "BHANVAD", 
+  "state": "GUJARAT", 
+  "tehsil": "BHANVAD"
+ }, 
+ {
+  "district": "BHAVNAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.177715", 
+  "name": "BHAVNAGAR", 
+  "state": "GUJARAT", 
+  "tehsil": "BHAVNAGAR"
+ }, 
+ {
+  "district": "JUNAGADH", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.181161", 
+  "name": "BHESAN", 
+  "state": "GUJARAT", 
+  "tehsil": "BHESAN"
+ }, 
+ {
+  "district": "KUTCHH", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.184604", 
+  "name": "BHUJ", 
+  "state": "GUJARAT", 
+  "tehsil": "BHUJ"
+ }, 
+ {
+  "district": "BHAVANAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.187889", 
+  "name": "BOTAD", 
+  "state": "GUJARAT", 
+  "tehsil": "BOTAD"
+ }, 
+ {
+  "district": "SURENDRANAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.191418", 
+  "name": "CHOTILA", 
+  "state": "GUJARAT", 
+  "tehsil": "CHOTILA"
+ }, 
+ {
+  "district": "SURENDRANAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.195194", 
+  "name": "DHANGHRDHRA", 
+  "state": "GUJARAT", 
+  "tehsil": "DHANGHRDHRA"
+ }, 
+ {
+  "district": "AMRELI", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.198726", 
+  "name": "DHARI", 
+  "state": "GUJARAT", 
+  "tehsil": "DHARI"
+ }, 
+ {
+  "district": "RAJKOT", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.201997", 
+  "name": "DHORAJI", 
+  "state": "GUJARAT", 
+  "tehsil": "DHORAJI"
+ }, 
+ {
+  "district": "JAMNAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.205811", 
+  "name": "DHROL", 
+  "state": "GUJARAT", 
+  "tehsil": "DHROL"
+ }, 
+ {
+  "district": "BHAVANAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.209267", 
+  "name": "GADHDA", 
+  "state": "GUJARAT", 
+  "tehsil": "GADHDA"
+ }, 
+ {
+  "district": "KUTCHH", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.212656", 
+  "name": "GANDHIDHAM", 
+  "state": "GUJARAT", 
+  "tehsil": "GANDHIDHAM"
+ }, 
+ {
+  "district": "BHAVANAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.216058", 
+  "name": "GARIYADHAR", 
+  "state": "GUJARAT", 
+  "tehsil": "GARIYADHAR"
+ }, 
+ {
+  "district": "RAJKOT", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.219422", 
+  "name": "GONDAL", 
+  "state": "GUJARAT", 
+  "tehsil": "GONDAL"
+ }, 
+ {
+  "district": "SURENDRANAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.222545", 
+  "name": "HALVAD", 
+  "state": "GUJARAT", 
+  "tehsil": "HALVAD"
+ }, 
+ {
+  "district": "JAMNAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.225867", 
+  "name": "JAMJODHAPUR", 
+  "state": "GUJARAT", 
+  "tehsil": "JAMJODHAPUR"
+ }, 
+ {
+  "district": "RAJKOT", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.230336", 
+  "name": "JAMKANDORNA", 
+  "state": "GUJARAT", 
+  "tehsil": "JAMKANDORNA"
+ }, 
+ {
+  "district": "JAMNAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.233474", 
+  "name": "JAMKHAMBHALIYA", 
+  "state": "GUJARAT", 
+  "tehsil": "JAMKHAMBHALIYA"
+ }, 
+ {
+  "district": "JAMNAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.237150", 
+  "name": "JAMNAGAR", 
+  "state": "GUJARAT", 
+  "tehsil": "JAMNAGAR"
+ }, 
+ {
+  "district": "RAJKOT", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.240388", 
+  "name": "JASDAN", 
+  "state": "GUJARAT", 
+  "tehsil": "JASDAN"
+ }, 
+ {
+  "district": "RAJKOT", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.243478", 
+  "name": "JETPUR", 
+  "state": "GUJARAT", 
+  "tehsil": "JETPUR"
+ }, 
+ {
+  "district": "JUNAGADH", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.247323", 
+  "name": "JUNAGADH", 
+  "state": "GUJARAT", 
+  "tehsil": "JUNAGADH"
+ }, 
+ {
+  "district": "JAMNAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.250861", 
+  "name": "KALAWAD", 
+  "state": "GUJARAT", 
+  "tehsil": "KALAWAD"
+ }, 
+ {
+  "district": "JAMNAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.254150", 
+  "name": "KALYANPUR", 
+  "state": "GUJARAT", 
+  "tehsil": "KALYANPUR"
+ }, 
+ {
+  "district": "JUNAGADH", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.257479", 
+  "name": "KESHOD", 
+  "state": "GUJARAT", 
+  "tehsil": "KESHOD"
+ }, 
+ {
+  "district": "JAMNAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.260736", 
+  "name": "KHABHALIYA", 
+  "state": "GUJARAT", 
+  "tehsil": "KHABHALIYA"
+ }, 
+ {
+  "district": "AMRELI", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.263958", 
+  "name": "KHAMBHA", 
+  "state": "GUJARAT", 
+  "tehsil": "KHAMBHA"
+ }, 
+ {
+  "district": "JUNAGADH", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.267254", 
+  "name": "KODINAR", 
+  "state": "GUJARAT", 
+  "tehsil": "KODINAR"
+ }, 
+ {
+  "district": "RAJKOT", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.270528", 
+  "name": "KOTADA (SANGANI)", 
+  "state": "GUJARAT", 
+  "tehsil": "KOTADA (SANGANI)"
+ }, 
+ {
+  "district": "RAJKOT", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.273813", 
+  "name": "KOTADA SAGANI", 
+  "state": "GUJARAT", 
+  "tehsil": "KOTADA SAGANI"
+ }, 
+ {
+  "district": "AMRELI", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.277083", 
+  "name": "KUKAVAV", 
+  "state": "GUJARAT", 
+  "tehsil": "KUKAVAV"
+ }, 
+ {
+  "district": "PORBANDAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.280327", 
+  "name": "KUTIYANA", 
+  "state": "GUJARAT", 
+  "tehsil": "KUTIYANA"
+ }, 
+ {
+  "district": "KUTCHH", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.283654", 
+  "name": "LAKHAPAT", 
+  "state": "GUJARAT", 
+  "tehsil": "LAKHAPAT"
+ }, 
+ {
+  "district": "SURENDRANAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.286883", 
+  "name": "LAKHTAR", 
+  "state": "GUJARAT", 
+  "tehsil": "LAKHTAR"
+ }, 
+ {
+  "district": "JAMNAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.290189", 
+  "name": "LALPUR", 
+  "state": "GUJARAT", 
+  "tehsil": "LALPUR"
+ }, 
+ {
+  "district": "AMRELI", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.293408", 
+  "name": "LATHI", 
+  "state": "GUJARAT", 
+  "tehsil": "LATHI"
+ }, 
+ {
+  "district": "AMRELI", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.296459", 
+  "name": "LILIYA", 
+  "state": "GUJARAT", 
+  "tehsil": "LILIYA"
+ }, 
+ {
+  "district": "SURENDRANAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.299706", 
+  "name": "LIMADI", 
+  "state": "GUJARAT", 
+  "tehsil": "LIMADI"
+ }, 
+ {
+  "district": "RAJKOT", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.303127", 
+  "name": "LODHIKA", 
+  "state": "GUJARAT", 
+  "tehsil": "LODHIKA"
+ }, 
+ {
+  "district": "BHAVANAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.306608", 
+  "name": "MAHUVA", 
+  "state": "GUJARAT", 
+  "tehsil": "MAHUVA"
+ }, 
+ {
+  "district": "JUNAGADH", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.310025", 
+  "name": "MALIA", 
+  "state": "GUJARAT", 
+  "tehsil": "MALIA"
+ }, 
+ {
+  "district": "JUNAGADH", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.313180", 
+  "name": "MALIYA", 
+  "state": "GUJARAT", 
+  "tehsil": "MALIYA"
+ }, 
+ {
+  "district": "JAMNAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.316393", 
+  "name": "MANAVADAR", 
+  "state": "GUJARAT", 
+  "tehsil": "MANAVADAR"
+ }, 
+ {
+  "district": "KUTCHH", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.319798", 
+  "name": "MANDAVI", 
+  "state": "GUJARAT", 
+  "tehsil": "MANDAVI"
+ }, 
+ {
+  "district": "KUTCHH", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.322910", 
+  "name": "MANDVI", 
+  "state": "GUJARAT", 
+  "tehsil": "MANDVI"
+ }, 
+ {
+  "district": "JUNAGADH", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.326136", 
+  "name": "MANGROL", 
+  "state": "GUJARAT", 
+  "tehsil": "MANGROL"
+ }, 
+ {
+  "district": "JUNAGADH", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.329367", 
+  "name": "MENDARDA", 
+  "state": "GUJARAT", 
+  "tehsil": "MENDARDA"
+ }, 
+ {
+  "district": "RAJKOT", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.332694", 
+  "name": "MORBI", 
+  "state": "GUJARAT", 
+  "tehsil": "MORBI"
+ }, 
+ {
+  "district": "SURENDRANAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.335926", 
+  "name": "MULI", 
+  "state": "GUJARAT", 
+  "tehsil": "MULI"
+ }, 
+ {
+  "district": "KUTCHH", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.339192", 
+  "name": "MUNDRA", 
+  "state": "GUJARAT", 
+  "tehsil": "MUNDRA"
+ }, 
+ {
+  "district": "KUTCHH", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.342571", 
+  "name": "NAKHATRANA", 
+  "state": "GUJARAT", 
+  "tehsil": "NAKHATRANA"
+ }, 
+ {
+  "district": "JAMNAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.345651", 
+  "name": "OKHA", 
+  "state": "GUJARAT", 
+  "tehsil": "OKHA"
+ }, 
+ {
+  "district": "RAJKOT", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.349109", 
+  "name": "PADADHARI", 
+  "state": "GUJARAT", 
+  "tehsil": "PADADHARI"
+ }, 
+ {
+  "district": "BHAVNAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.352403", 
+  "name": "PALITANA", 
+  "state": "GUJARAT", 
+  "tehsil": "PALITANA"
+ }, 
+ {
+  "district": "PORBANDAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.355678", 
+  "name": "PORBANDAR", 
+  "state": "GUJARAT", 
+  "tehsil": "PORBANDAR"
+ }, 
+ {
+  "district": "RAJKOT", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.358983", 
+  "name": "RAJKOT", 
+  "state": "GUJARAT", 
+  "tehsil": "RAJKOT"
+ }, 
+ {
+  "district": "AMRELI", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.362310", 
+  "name": "RAJULA", 
+  "state": "GUJARAT", 
+  "tehsil": "RAJULA"
+ }, 
+ {
+  "district": "SURENDRANAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.365549", 
+  "name": "RANAVAV", 
+  "state": "GUJARAT", 
+  "tehsil": "RANAVAV"
+ }, 
+ {
+  "district": "KUTCHH", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.368999", 
+  "name": "RAPAR", 
+  "state": "GUJARAT", 
+  "tehsil": "RAPAR"
+ }, 
+ {
+  "district": "AMRELI", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.372325", 
+  "name": "SAVARKUNDALA", 
+  "state": "GUJARAT", 
+  "tehsil": "SAVARKUNDALA"
+ }, 
+ {
+  "district": "SURENDRANAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.375639", 
+  "name": "SAYLA", 
+  "state": "GUJARAT", 
+  "tehsil": "SAYLA"
+ }, 
+ {
+  "district": "BHAVANAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.378963", 
+  "name": "SIHOR", 
+  "state": "GUJARAT", 
+  "tehsil": "SIHOR"
+ }, 
+ {
+  "district": "SURENDRANAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.382288", 
+  "name": "SURENDRANAGAR", 
+  "state": "GUJARAT", 
+  "tehsil": "SURENDRANAGAR"
+ }, 
+ {
+  "district": "JUNAGADH", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.385526", 
+  "name": "SUTRAPADA", 
+  "state": "GUJARAT", 
+  "tehsil": "SUTRAPADA"
+ }, 
+ {
+  "district": "BHAVANAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.388902", 
+  "name": "TALAJA", 
+  "state": "GUJARAT", 
+  "tehsil": "TALAJA"
+ }, 
+ {
+  "district": "BHAVANAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.392138", 
+  "name": "TALALA", 
+  "state": "GUJARAT", 
+  "tehsil": "TALALA"
+ }, 
+ {
+  "district": "SURENDRANAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.395344", 
+  "name": "THAN", 
+  "state": "GUJARAT", 
+  "tehsil": "THAN"
+ }, 
+ {
+  "district": "BHAVANAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.398651", 
+  "name": "UMRALA", 
+  "state": "GUJARAT", 
+  "tehsil": "UMRALA"
+ }, 
+ {
+  "district": "JUNAGADH", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.401966", 
+  "name": "UNA", 
+  "state": "GUJARAT", 
+  "tehsil": "UNA"
+ }, 
+ {
+  "district": "RAJKOT", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.405359", 
+  "name": "UPLETA", 
+  "state": "GUJARAT", 
+  "tehsil": "UPLETA"
+ }, 
+ {
+  "district": "SURENDRANAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.408500", 
+  "name": "VADHVAN", 
+  "state": "GUJARAT", 
+  "tehsil": "VADHVAN"
+ }, 
+ {
+  "district": "PORBANDAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.411678", 
+  "name": "VADIYA", 
+  "state": "GUJARAT", 
+  "tehsil": "VADIYA"
+ }, 
+ {
+  "district": "BHAVANAGAR", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.414945", 
+  "name": "VALLABHIPUR", 
+  "state": "GUJARAT", 
+  "tehsil": "VALLABHIPUR"
+ }, 
+ {
+  "district": "JUNAGADH", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.418359", 
+  "name": "VANTHLI", 
+  "state": "GUJARAT", 
+  "tehsil": "VANTHLI"
+ }, 
+ {
+  "district": "JUNAGADH", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.421671", 
+  "name": "VERAVAL", 
+  "state": "GUJARAT", 
+  "tehsil": "VERAVAL"
+ }, 
+ {
+  "district": "JUNAGADH", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.425411", 
+  "name": "VISAVADAR", 
+  "state": "GUJARAT", 
+  "tehsil": "VISAVADAR"
+ }, 
+ {
+  "district": "RAJKOT", 
+  "docstatus": 0, 
+  "doctype": "Tehsil", 
+  "modified": "2016-03-14 23:20:15.428698", 
+  "name": "WANKANER", 
+  "state": "GUJARAT", 
+  "tehsil": "WANKANER"
+ }
+]

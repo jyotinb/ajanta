@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include ajanta *.css
+recursive-include ajanta *.csv
+recursive-include ajanta *.html
+recursive-include ajanta *.ico
+recursive-include ajanta *.js
+recursive-include ajanta *.json
+recursive-include ajanta *.md
+recursive-include ajanta *.png
+recursive-include ajanta *.py
+recursive-include ajanta *.svg
+recursive-include ajanta *.txt
+recursive-exclude ajanta *.pyc

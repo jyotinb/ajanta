@@ -1,0 +1,74 @@
+[
+ {
+  "district": "SURENDRANAGAR", 
+  "docstatus": 0, 
+  "doctype": "District", 
+  "modified": "2016-03-13 16:51:46.983476", 
+  "name": "SURENDRANAGAR", 
+  "state": "GUJARAT"
+ }, 
+ {
+  "district": "BHAVNAGAR", 
+  "docstatus": 0, 
+  "doctype": "District", 
+  "modified": "2016-03-13 16:51:46.987510", 
+  "name": "BHAVNAGAR", 
+  "state": "GUJARAT"
+ }, 
+ {
+  "district": "AMRELI", 
+  "docstatus": 0, 
+  "doctype": "District", 
+  "modified": "2016-03-13 16:51:46.992538", 
+  "name": "AMRELI", 
+  "state": "GUJARAT"
+ }, 
+ {
+  "district": "JAMNAGAR", 
+  "docstatus": 0, 
+  "doctype": "District", 
+  "modified": "2016-03-13 16:51:46.998237", 
+  "name": "JAMNAGAR", 
+  "state": "GUJARAT"
+ }, 
+ {
+  "district": "KUTCHH", 
+  "docstatus": 0, 
+  "doctype": "District", 
+  "modified": "2016-03-13 16:51:47.000696", 
+  "name": "KUTCHH", 
+  "state": "GUJARAT"
+ }, 
+ {
+  "district": "PORBANDAR", 
+  "docstatus": 0, 
+  "doctype": "District", 
+  "modified": "2016-03-13 16:51:47.003382", 
+  "name": "PORBANDAR", 
+  "state": "GUJARAT"
+ }, 
+ {
+  "district": "BHAVANAGAR", 
+  "docstatus": 0, 
+  "doctype": "District", 
+  "modified": "2016-03-13 16:51:47.006037", 
+  "name": "BHAVANAGAR", 
+  "state": "GUJARAT"
+ }, 
+ {
+  "district": "JUNAGADH", 
+  "docstatus": 0, 
+  "doctype": "District", 
+  "modified": "2016-03-13 16:51:47.008739", 
+  "name": "JUNAGADH", 
+  "state": "GUJARAT"
+ }, 
+ {
+  "district": "RAJKOT", 
+  "docstatus": 0, 
+  "doctype": "District", 
+  "modified": "2016-03-13 16:51:47.011347", 
+  "name": "RAJKOT", 
+  "state": "GUJARAT"
+ }
+]
