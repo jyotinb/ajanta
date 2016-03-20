@@ -12,6 +12,7 @@ app_version = "0.0.1"
 app_license = "MIT"
 fixtures = ["Custom Field",
 "Property Setter",
+"DocType",
 "Custom Script",
 "Print Format",
 "City",
