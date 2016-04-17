@@ -1,5 +1,69 @@
 [
  {
+  "district": "AHMEDABAD", 
+  "docstatus": 0, 
+  "doctype": "District", 
+  "modified": "2016-03-21 13:01:50.163381", 
+  "name": "AHMEDABAD", 
+  "state": "GUJARAT"
+ }, 
+ {
+  "district": "ANAND", 
+  "docstatus": 0, 
+  "doctype": "District", 
+  "modified": "2016-03-21 13:01:50.178320", 
+  "name": "ANAND", 
+  "state": "GUJARAT"
+ }, 
+ {
+  "district": "SURAT", 
+  "docstatus": 0, 
+  "doctype": "District", 
+  "modified": "2016-03-21 13:01:50.180650", 
+  "name": "SURAT", 
+  "state": "GUJARAT"
+ }, 
+ {
+  "district": "MEHSANA", 
+  "docstatus": 0, 
+  "doctype": "District", 
+  "modified": "2016-03-21 13:01:50.191419", 
+  "name": "MEHSANA", 
+  "state": "GUJARAT"
+ }, 
+ {
+  "district": "MORBI", 
+  "docstatus": 0, 
+  "doctype": "District", 
+  "modified": "2016-03-21 13:01:50.193825", 
+  "name": "MORBI", 
+  "state": "GUJARAT"
+ }, 
+ {
+  "district": "MAHESANA", 
+  "docstatus": 0, 
+  "doctype": "District", 
+  "modified": "2016-03-21 13:01:50.196345", 
+  "name": "MAHESANA", 
+  "state": "GUJARAT"
+ }, 
+ {
+  "district": "VADODARA", 
+  "docstatus": 0, 
+  "doctype": "District", 
+  "modified": "2016-03-21 13:01:50.198821", 
+  "name": "VADODARA", 
+  "state": "GUJARAT"
+ }, 
+ {
+  "district": "DAHOD", 
+  "docstatus": 0, 
+  "doctype": "District", 
+  "modified": "2016-03-21 16:58:21.412326", 
+  "name": "DAHOD", 
+  "state": "GUJARAT"
+ }, 
+ {
   "district": "SURENDRANAGAR", 
   "docstatus": 0, 
   "doctype": "District", 

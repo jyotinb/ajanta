@@ -12,9 +12,9 @@
   "docstatus": 0, 
   "doctype": "Custom Script", 
   "dt": "Sales Order", 
-  "modified": "2016-03-19 19:32:28.898851", 
+  "modified": "2016-04-17 11:02:02.557610", 
   "name": "Sales Order-Client", 
-  "script": "", 
+  "script": "//frappe.require([\n//   \"/assets/ajanta/js/salesorder.js\"\n//]);\n", 
   "script_type": "Client"
  }
 ]

@@ -1,6 +1,6 @@
 {
  "allow_copy": 0, 
- "allow_import": 0, 
+ "allow_import": 1, 
  "allow_rename": 0, 
  "autoname": "field:tehsil", 
  "creation": "2016-03-13 14:55:45.678293", 
@@ -96,7 +96,7 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 0, 
- "modified": "2016-03-13 14:55:45.678293", 
+ "modified": "2016-03-21 12:59:43.763343", 
  "modified_by": "Administrator", 
  "module": "Ajanta", 
  "name": "Tehsil", 

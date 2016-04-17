@@ -1,6 +1,6 @@
 {
  "allow_copy": 0, 
- "allow_import": 0, 
+ "allow_import": 1, 
  "allow_rename": 0, 
  "autoname": "field:district", 
  "creation": "2016-03-13 14:53:54.919442", 
@@ -70,7 +70,7 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 0, 
- "modified": "2016-03-13 14:53:54.919442", 
+ "modified": "2016-03-21 12:59:17.941338", 
  "modified_by": "Administrator", 
  "module": "Ajanta", 
  "name": "District", 

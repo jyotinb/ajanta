@@ -1,0 +1,8 @@
+{
+    	"css/ajanta.css": [
+    		"public/css/callouts.css"
+        ],
+    	"ajanta/js/ajanta.js": [
+    		"public/js/ajanta_script.js"
+    	]
+    }
